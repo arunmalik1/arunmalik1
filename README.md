@@ -2,7 +2,9 @@
 
 ### About Me
 
-My name is Arun Malik and I discovered my love for data while working in hospitality where I used customer feedback, sales reports and inventory management to increase profitability. Hospitality taught me problem-solving skills, attention to detail and the ability to communicate with all stakeholders. My goal is to continue to grow my skills and help businesses increase efficiency.
+After graduating high school I entered the work force in the hospitality business. After 25 years of service I decided to go back to college, where I discovered my love for economics and data science. 
+ 
+I used the data from customer feedback, sales reports and inventory management to increase profitability. Hospitality taught me problem-solving skills, attention to detail and the ability to communicate with all stakeholders. I look forward to helping businesses achieve their goals with data.
 
 ### What I'm up too:
 
